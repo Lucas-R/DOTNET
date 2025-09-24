@@ -1,0 +1,34 @@
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.vscode/
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Banco de dados SQLite
+*.db
+*.sqlite
+
+# Configurações do sistema
+*.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Configurações de ambiente
+.env
+
+# Node / Frontend (se tiver)
+node_modules/
+dist/
