@@ -22,9 +22,13 @@ No terminal:
 
 2. `cd DOTNET/`
 
-3. `donet build`
+3. `dotnet ef migrations add Initial`
 
-4. `donet run`
+4. `dotnet ef database update`
+
+5. `donet build`
+
+6. `donet run`
 
 > Pode acessar o projeto em `http://localhost:5000/api ou https://localhost:5001/api`.
 
