@@ -11,6 +11,9 @@ obj/
 Debug/
 Release/
 
+# Migration
+Migrations/
+
 # Pacotes NuGet
 *.nupkg
 packages/
